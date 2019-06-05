@@ -1,0 +1,13 @@
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\bin\Debug\netcoreapp2.2\Cotizacion.deps.json
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\bin\Debug\netcoreapp2.2\Cotizacion.runtimeconfig.json
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\bin\Debug\netcoreapp2.2\Cotizacion.runtimeconfig.dev.json
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\bin\Debug\netcoreapp2.2\Cotizacion.dll
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\bin\Debug\netcoreapp2.2\Cotizacion.pdb
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\obj\Debug\netcoreapp2.2\Cotizacion.csproj.CoreCompileInputs.cache
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\obj\Debug\netcoreapp2.2\Cotizacion.RazorAssemblyInfo.cache
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\obj\Debug\netcoreapp2.2\Cotizacion.RazorAssemblyInfo.cs
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\obj\Debug\netcoreapp2.2\Cotizacion.AssemblyInfoInputs.cache
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\obj\Debug\netcoreapp2.2\Cotizacion.AssemblyInfo.cs
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\obj\Debug\netcoreapp2.2\Cotizacion.RazorTargetAssemblyInfo.cache
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\obj\Debug\netcoreapp2.2\Cotizacion.dll
+C:\Proyectos\Cotizacion\Cotizacion\Cotizacion\obj\Debug\netcoreapp2.2\Cotizacion.pdb
