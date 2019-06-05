@@ -1,9 +1,21 @@
 # Cotizacion
 
+## Creacion Mongo
+```
+use Cotizacion
+```
+```
+db.createCollection('Users')
+```
+```
+db.Users.insertMany([ 	{ nombre:"Felipe", apellido:"Cardenas", email:"link_the_hero@hotmail.com", password:"8D969EEF6ECAD3C29A3A629280E686CF0C3F5D5A86AFF3CA12020C923ADC6C92"}, 	{ nombre:"Pepe", apellido:"Perez", email:"link_the_hero@hotmail.com", password:"8D969EEF6ECAD3C29A3A629280E686CF0C3F5D5A86AFF3CA12020C923ADC6C92"}, 	{ nombre:"Aurelio", apellido:"Rendon", email:"link_the_hero@hotmail.com", password:"8D969EEF6ECAD3C29A3A629280E686CF0C3F5D5A86AFF3CA12020C923ADC6C92"}, 	{ nombre:"Juana", apellido:"Casallas", email:"link_the_hero@hotmail.com", password:"8D969EEF6ECAD3C29A3A629280E686CF0C3F5D5A86AFF3CA12020C923ADC6C92"}, 	{ nombre:"Ana", apellido:"Bernal", email:"link_the_hero@hotmail.com", password:"8D969EEF6ECAD3C29A3A629280E686CF0C3F5D5A86AFF3CA12020C923ADC6C92"} ])
+```
 
 
 
-## Creacion de tabla SQL
+
+## Creacion SQL
+```
 CREATE DATABASE Cotizacion;
 
 USE Cotizacion;
@@ -138,3 +150,4 @@ INSERT INTO usuario
 	('Ana','Bernal','link_the_hero@hotmail.com','8D969EEF6ECAD3C29A3A629280E686CF0C3F5D5A86AFF3CA12020C923ADC6C92'	)
 	
 	;
+```
