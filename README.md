@@ -1,4 +1,5 @@
 # Cotizacion
+### .net core 
 ## Configuracion de la aplicacion
 en el archivo 
 Cotizacion/Cotizacion/appsettings.json
