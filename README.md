@@ -1,5 +1,20 @@
 # Cotizacion
-
+## Configuracion de la aplicacion
+en el archivo 
+Cotizacion/Cotizacion/appsettings.json
+ se deben configurar las secciones:
+```
+ "MongoConnectionStrings": {
+    "CotizacionDB": "mongodb://localhost:27017",
+    "Database": "Cotizacion"
+  },
+  ```
+  
+  ```
+  "SQLConnectionStrings": {
+    "ConnectionStringAdmin": "Server=34.241.22.59;Database=Cotizacion;User Id=sa;Password=SaludVida.2018;MultipleActiveResultSets=true"
+  },
+```
 ## Creacion Mongo
 ```
 use Cotizacion
